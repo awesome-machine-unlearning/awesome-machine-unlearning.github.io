@@ -1,0 +1,393 @@
+
+                                                <tr>
+                                                    <td><a href="https://arxiv.org/abs/2210.09126">Verifiable and Provably Secure Machine Unlearning</a></td>
+                                                    <td>arXiv</td>
+                                                    <td>2022</td>                                                    <td><a href="https://github.com/cleverhans-lab/verifiable-unlearning">[Code]</a></td>
+                                                    <td>Model-Agnostic</td>
+                                                </tr>
+                                                <tr>
+                                                    <td><a href="https://arxiv.org/abs/2209.15276">Machine Unlearning Method Based On Projection Residual</a></td>
+                                                    <td>DSAA</td>
+                                                    <td>2022</td>                                                    <td class='code'>-</td>
+                                                    <td>Model-Agnostic</td>
+                                                </tr>
+                                                <tr>
+                                                    <td><a href="https://ojs.aaai.org/index.php/AAAI/article/view/20736">Hard to Forget: Poisoning Attacks on Certified Machine Unlearning</a></td>
+                                                    <td>AAAI</td>
+                                                    <td>2022</td>                                                    <td><a href="https://github.com/ngmarchant/attack-unlearning">[Code]</a></td>
+                                                    <td>Model-Agnostic</td>
+                                                </tr>
+                                                <tr>
+                                                    <td><a href="https://dl.acm.org/doi/abs/10.1145/3488932.3517406">Markov Chain Monte Carlo-Based Machine Unlearning: Unlearning What Needs to be Forgotten</a></td>
+                                                    <td>ASIA CCS</td>
+                                                    <td>2022</td>                                                    <td class='code'>-</td>
+                                                    <td>Model-Agnostic</td>
+                                                </tr>
+                                                <tr>
+                                                    <td><a href="https://arxiv.org/abs/2205.08096">Can Bad Teaching Induce Forgetting? Unlearning in Deep Networks using an Incompetent Teacher</a></td>
+                                                    <td>arXiv</td>
+                                                    <td>2022</td>                                                    <td class='code'>-</td>
+                                                    <td>Model-Agnostic</td>
+                                                </tr>
+                                                <tr>
+                                                    <td><a href="https://ieeexplore.ieee.org/abstract/document/9844865?casa_token=_eowH3BTt1sAAAAA:X0uCpLxOwcFRNJHoo3AtA0ay4t075_cSptgTMznsjusnvgySq-rJe8GC285YhWG4Q0fUmP9Sodw0">Learn to Forget: Machine Unlearning Via Neuron Masking</a></td>
+                                                    <td>IEEE</td>
+                                                    <td>2021</td>                                                    <td class='code'>-</td>
+                                                    <td>Model-Agnostic</td>
+                                                </tr>
+                                                <tr>
+                                                    <td><a href="https://proceedings.neurips.cc/paper/2021/hash/87f7ee4fdb57bdfd52179947211b7ebb-Abstract.html">Adaptive Machine Unlearning</a></td>
+                                                    <td>NeurIPS</td>
+                                                    <td>2021</td>                                                    <td><a href="https://github.com/ChrisWaites/adaptive-machine-unlearning">[Code]</a></td>
+                                                    <td>Model-Agnostic</td>
+                                                </tr>
+                                                <tr>
+                                                    <td><a href="https://proceedings.mlr.press/v132/neel21a.html">Descent-to-Delete: Gradient-Based Methods for Machine Unlearning</a></td>
+                                                    <td>ALT</td>
+                                                    <td>2021</td>                                                    <td class='code'>-</td>
+                                                    <td>Model-Agnostic</td>
+                                                </tr>
+                                                <tr>
+                                                    <td><a href="https://proceedings.mlr.press/v134/ullah21a.html">Machine Unlearning via Algorithmic Stability</a></td>
+                                                    <td>COLT</td>
+                                                    <td>2021</td>                                                    <td class='code'>-</td>
+                                                    <td>Model-Agnostic</td>
+                                                </tr>
+                                                <tr>
+                                                    <td><a href="https://proceedings.neurips.cc/paper/2021/hash/a4380923dd651c195b1631af7c829187-Abstract.html">Knowledge-Adaptation Priors</a></td>
+                                                    <td>NeurIPS</td>
+                                                    <td>2021</td>                                                    <td><a href="https://github.com/team-approx-bayes/kpriors">[Code]</a></td>
+                                                    <td>Model-Agnostic</td>
+                                                </tr>
+                                                <tr>
+                                                    <td><a href="https://dl.acm.org/doi/abs/10.1145/3318464.3380571">PrIU: A Provenance-Based Approach for Incrementally Updating Regression Models</a></td>
+                                                    <td>NeurIPS</td>
+                                                    <td>2020</td>                                                    <td class='code'>-</td>
+                                                    <td>Model-Agnostic</td>
+                                                </tr>
+                                                <tr>
+                                                    <td><a href="https://arxiv.org/abs/1911.04933">Eternal Sunshine of the Spotless Net: Selective Forgetting in Deep Networks</a></td>
+                                                    <td>CVPR</td>
+                                                    <td>2020</td>                                                    <td class='code'>-</td>
+                                                    <td>Model-Agnostic</td>
+                                                </tr>
+                                                <tr>
+                                                    <td><a href="https://proceedings.mlr.press/v119/guo20c.html">Certified Data Removal from Machine Learning Models</a></td>
+                                                    <td>ICML</td>
+                                                    <td>2020</td>                                                    <td class='code'>-</td>
+                                                    <td>Model-Agnostic</td>
+                                                </tr>
+                                                <tr>
+                                                    <td><a href="https://link.springer.com/article/10.1007/s10586-018-1772-4">A Novel Online Incremental and Decremental Learning Algorithm Based on Variable Support Vector Machine</a></td>
+                                                    <td>Cluster Computing</td>
+                                                    <td>2019</td>                                                    <td class='code'>-</td>
+                                                    <td>Model-Agnostic</td>
+                                                </tr>
+                                                <tr>
+                                                    <td><a href="https://papers.nips.cc/paper/2019/hash/cb79f8fa58b91d3af6c9c991f63962d3-Abstract.html">Making AI Forget You: Data Deletion in Machine Learning</a></td>
+                                                    <td>NeurIPS</td>
+                                                    <td>2019</td>                                                    <td class='code'>-</td>
+                                                    <td>Model-Agnostic</td>
+                                                </tr>
+                                                <tr>
+                                                    <td><a href="https://proceedings.mlr.press/v70/koh17a.html">Understanding Black-box Predictions via Influence Functions</a></td>
+                                                    <td>ICML</td>
+                                                    <td>2017</td>                                                    <td><a href="https://github.com/kohpangwei/influence-release">[Code]</a></td>
+                                                    <td>Model-Agnostic</td>
+                                                </tr>
+                                                <tr>
+                                                    <td><a href="https://dl.acm.org/doi/10.1109/SP.2015.35">Towards Making Systems Forget with Machine Unlearning</a></td>
+                                                    <td>S&P</td>
+                                                    <td>2015</td>                                                    <td class='code'>-</td>
+                                                    <td>Model-Agnostic</td>
+                                                </tr>
+                                                <tr>
+                                                    <td><a href="https://dl.acm.org/doi/10.1145/2623330.2623661">Incremental and decremental training for linear classification</a></td>
+                                                    <td>KDD</td>
+                                                    <td>2014</td>                                                    <td><a href="https://www.csie.ntu.edu.tw/~cjlin/papers/ws/">[Code]</a></td>
+                                                    <td>Model-Agnostic</td>
+                                                </tr>
+                                                <tr>
+                                                    <td><a href="https://dl.acm.org/doi/10.5555/2984093.2984196">Multiple Incremental Decremental Learning of Support Vector Machines</a></td>
+                                                    <td>NIPS</td>
+                                                    <td>2009</td>                                                    <td class='code'>-</td>
+                                                    <td>Model-Agnostic</td>
+                                                </tr>
+                                                <tr>
+                                                    <td><a href="https://dl.acm.org/doi/10.5555/1776814.1776838">Incremental and Decremental Learning for Linear Support Vector Machines</a></td>
+                                                    <td>ICANN</td>
+                                                    <td>2007</td>                                                    <td class='code'>-</td>
+                                                    <td>Model-Agnostic</td>
+                                                </tr>
+                                                <tr>
+                                                    <td><a href="https://www.semanticscholar.org/paper/Decremental-Learning-Algorithms-for-Nonlinear-and-Duan-Li/312c677f0882d0dfd60bfd77346588f52aefd10f">Decremental Learning Algorithms for Nonlinear Langrangian and Least Squares Support Vector Machines</a></td>
+                                                    <td>OSB</td>
+                                                    <td>2007</td>                                                    <td class='code'>-</td>
+                                                    <td>Model-Agnostic</td>
+                                                </tr>
+                                                <tr>
+                                                    <td><a href="https://link.springer.com/chapter/10.1007/978-3-540-45224-9_54">Multicategory Incremental Proximal Support Vector Classifiers</a></td>
+                                                    <td>KES</td>
+                                                    <td>2003</td>                                                    <td class='code'>-</td>
+                                                    <td>Model-Agnostic</td>
+                                                </tr>
+                                                <tr>
+                                                    <td><a href="https://link.springer.com/chapter/10.1007/978-3-540-45228-7_42">Incremental and Decremental Proximal Support Vector Classification using Decay Coefficients</a></td>
+                                                    <td>DaWak</td>
+                                                    <td>2003</td>                                                    <td class='code'>-</td>
+                                                    <td>Model-Agnostic</td>
+                                                </tr>
+                                                <tr>
+                                                    <td><a href="https://dl.acm.org/doi/10.5555/3008751.3008808">Incremental and Decremental Support Vector Machine Learning</a></td>
+                                                    <td>NeurIPS</td>
+                                                    <td>2000</td>                                                    <td class='code'>-</td>
+                                                    <td>Model-Agnostic</td>
+                                                </tr>
+
+                                                <tr>
+                                                    <td><a href="https://proceedings.mlr.press/v162/mitchell22a/mitchell22a.pdf">Memory-Based Model Editing at Scale</a></td>
+                                                    <td>MLR</td>
+                                                    <td>2022</td>                                                    <td><a href="https://sites.google.com/view/serac-editing">[Code]</a></td>
+                                                    <td>Model-Intrinsic</td>
+                                                </tr>
+                                                <tr>
+                                                    <td><a href="https://dl.acm.org/doi/abs/10.1145/3503161.3548378">Machine Unlearning for Image Retrieval: A Generative Scrubbing Approach</a></td>
+                                                    <td>MM</td>
+                                                    <td>2022</td>                                                    <td class='code'>-</td>
+                                                    <td>Model-Intrinsic</td>
+                                                </tr>
+                                                <tr>
+                                                    <td><a href="https://link.springer.com/article/10.1007/s10994-022-06178-9">Machine Unlearning: Linear Filtration for Logit-based Classifiers</a></td>
+                                                    <td>Machine Learning</td>
+                                                    <td>2022</td>                                                    <td class='code'>-</td>
+                                                    <td>Model-Intrinsic</td>
+                                                </tr>
+                                                <tr>
+                                                    <td><a href="https://openaccess.thecvf.com/content/CVPR2022/html/Mehta_Deep_Unlearning_via_Randomized_Conditionally_Independent_Hessians_CVPR_2022_paper.html">Deep Unlearning via Randomized Conditionally Independent Hessians</a></td>
+                                                    <td>CVPR</td>
+                                                    <td>2022</td>                                                    <td><a href="https://github.com/vsingh-group/LCODEC-deep-unlearning">[Code]</a></td>
+                                                    <td>Model-Intrinsic</td>
+                                                </tr>
+                                                <tr>
+                                                    <td><a href="https://dl.acm.org/doi/abs/10.5555/3495724.3497068">Variational Bayesian unlearning</a></td>
+                                                    <td>NeurIPS</td>
+                                                    <td>2022</td>                                                    <td class='code'>-</td>
+                                                    <td>Model-Intrinsic</td>
+                                                </tr>
+                                                <tr>
+                                                    <td><a href="https://dl.acm.org/doi/abs/10.1145/3474124.3474208">Revisiting Machine Learning Training Process for Enhanced Data Privacy</a></td>
+                                                    <td>IC3</td>
+                                                    <td>2021</td>                                                    <td class='code'>-</td>
+                                                    <td>Model-Intrinsic</td>
+                                                </tr>
+                                                <tr>
+                                                    <td><a href="https://openreview.net/forum?id=dTqOcTUOQO">Knowledge Removal in Sampling-based Bayesian Inference</a></td>
+                                                    <td>ICLR</td>
+                                                    <td>2021</td>                                                    <td><a href="https://github.com/fshp971/mcmc-unlearning">[Code]</a></td>
+                                                    <td>Model-Intrinsic</td>
+                                                </tr>
+                                                <tr>
+                                                    <td><a href="https://openaccess.thecvf.com/content/CVPR2021/html/Golatkar_Mixed-Privacy_Forgetting_in_Deep_Networks_CVPR_2021_paper.html">Mixed-Privacy Forgetting in Deep Networks</a></td>
+                                                    <td>CVPR</td>
+                                                    <td>2021</td>                                                    <td class='code'>-</td>
+                                                    <td>Model-Intrinsic</td>
+                                                </tr>
+                                                <tr>
+                                                    <td><a href="https://dl.acm.org/doi/abs/10.1145/3448016.3457239">HedgeCut: Maintaining Randomised Trees for Low-Latency Machine Unlearning</a></td>
+                                                    <td>SIGMOD</td>
+                                                    <td>2021</td>                                                    <td><a href="https://github.com/schelterlabs/hedgecut">[Code]</a></td>
+                                                    <td>Model-Intrinsic</td>
+                                                </tr>
+                                                <tr>
+                                                    <td><a href="https://ieeexplore.ieee.org/abstract/document/9596170">A Unified PAC-Bayesian Framework for Machine Unlearning via Information Risk Minimization</a></td>
+                                                    <td>MLSP</td>
+                                                    <td>2021</td>                                                    <td class='code'>-</td>
+                                                    <td>Model-Intrinsic</td>
+                                                </tr>
+                                                <tr>
+                                                    <td><a href="https://arxiv.org/abs/2105.06209">DeepObliviate: A Powerful Charm for Erasing Data Residual Memory in Deep Neural Networks</a></td>
+                                                    <td>arXiv</td>
+                                                    <td>2021</td>                                                    <td class='code'>-</td>
+                                                    <td>Model-Intrinsic</td>
+                                                </tr>
+                                                <tr>
+                                                    <td><a href="https://arxiv.org/abs/2101.06417">Bayesian Inference Forgetting</a></td>
+                                                    <td>arXiv</td>
+                                                    <td>2021</td>                                                    <td><a href="https://github.com/fshp971/BIF">[Code]</a></td>
+                                                    <td>Model-Intrinsic</td>
+                                                </tr>
+                                                <tr>
+                                                    <td><a href="https://proceedings.mlr.press/v130/izzo21a.html">Approximate Data Deletion from Machine Learning Models</a></td>
+                                                    <td>AISTATS</td>
+                                                    <td>2021</td>                                                    <td><a href="https://github.com/zleizzo/datadeletion">[Code]</a></td>
+                                                    <td>Model-Intrinsic</td>
+                                                </tr>
+                                                <tr>
+                                                    <td><a href="https://proceedings.mlr.press/v130/li21a.html">Online Forgetting Process for Linear Regression Models</a></td>
+                                                    <td>AISTATS</td>
+                                                    <td>2021</td>                                                    <td class='code'>-</td>
+                                                    <td>Model-Intrinsic</td>
+                                                </tr>
+                                                <tr>
+                                                    <td><a href="https://link.springer.com/chapter/10.1007/978-3-030-58526-6_23">Forgetting Outside the Box: Scrubbing Deep Networks of Information Accessible from Input-Output Observations</a></td>
+                                                    <td>ECCV</td>
+                                                    <td>2020</td>                                                    <td class='code'>-</td>
+                                                    <td>Model-Intrinsic</td>
+                                                </tr>
+                                                <tr>
+                                                    <td><a href="https://www.semanticscholar.org/paper/Influence-Functions-in-Deep-Learning-Are-Fragile-Basu-Pope/098076a2c90e42c81b843bf339446427c2ff02ed">Influence Functions in Deep Learning Are Fragile</a></td>
+                                                    <td>arXiv</td>
+                                                    <td>2020</td>                                                    <td class='code'>-</td>
+                                                    <td>Model-Intrinsic</td>
+                                                </tr>
+                                                <tr>
+                                                    <td><a href="https://ieeexplore.ieee.org/document/9121755">Deep Autoencoding Topic Model With Scalable Hybrid Bayesian Inference</a></td>
+                                                    <td>IEEE</td>
+                                                    <td>2020</td>                                                    <td class='code'>-</td>
+                                                    <td>Model-Intrinsic</td>
+                                                </tr>
+                                                <tr>
+                                                    <td><a href="https://arxiv.org/abs/1911.04933">Eternal Sunshine of the Spotless Net: Selective Forgetting in Deep Networks</a></td>
+                                                    <td>CVPR</td>
+                                                    <td>2020</td>                                                    <td class='code'>-</td>
+                                                    <td>Model-Intrinsic</td>
+                                                </tr>
+                                                <tr>
+                                                    <td><a href="https://proceedings.mlr.press/v108/pearce20a.html">Uncertainty in Neural Networks: Approximately Bayesian Ensembling</a></td>
+                                                    <td>AISTATS</td>
+                                                    <td>2020</td>                                                    <td><a href="https://teapearce.github.io/portfolio/github_io_1_ens/">[Code]</a></td>
+                                                    <td>Model-Intrinsic</td>
+                                                </tr>
+                                                <tr>
+                                                    <td><a href="https://proceedings.mlr.press/v119/guo20c.html">Certified Data Removal from Machine Learning Models</a></td>
+                                                    <td>ICML</td>
+                                                    <td>2020</td>                                                    <td class='code'>-</td>
+                                                    <td>Model-Intrinsic</td>
+                                                </tr>
+                                                <tr>
+                                                    <td><a href="https://proceedings.mlr.press/v119/wu20b.html">DeltaGrad: Rapid retraining of machine learning models</a></td>
+                                                    <td>ICML</td>
+                                                    <td>2020</td>                                                    <td><a href="https://github.com/thuwuyinjun/DeltaGrad">[Code]</a></td>
+                                                    <td>Model-Intrinsic</td>
+                                                </tr>
+                                                <tr>
+                                                    <td><a href="https://papers.nips.cc/paper/2019/hash/cb79f8fa58b91d3af6c9c991f63962d3-Abstract.html">Making AI Forget You: Data Deletion in Machine Learning</a></td>
+                                                    <td>NeurIPS</td>
+                                                    <td>2019</td>                                                    <td class='code'>-</td>
+                                                    <td>Model-Intrinsic</td>
+                                                </tr>
+                                                <tr>
+                                                    <td><a href="https://arxiv.org/abs/1908.04319">Neural Text Degeneration With Unlikelihood Training</a></td>
+                                                    <td>arXiv</td>
+                                                    <td>2019</td>                                                    <td><a href="https://github.com/facebookresearch/unlikelihood_training">[Code]</a></td>
+                                                    <td>Model-Intrinsic</td>
+                                                </tr>
+                                                <tr>
+                                                    <td><a href="https://ieeexplore.ieee.org/document/8566011">Bayesian Neural Networks with Weight Sharing Using Dirichlet Processes</a></td>
+                                                    <td>IEEE</td>
+                                                    <td>2018</td>                                                    <td><a href="https://github.com/wroth8/dp-bnn">[Code]</a></td>
+                                                    <td>Model-Intrinsic</td>
+                                                </tr>
+
+                                                <tr>
+                                                    <td><a href="https://arxiv.org/pdf/2210.08911.pdf">Forget Unlearning: Towards True Data Deletion in Machine Learning</a></td>
+                                                    <td>ICLR</td>
+                                                    <td>2022</td>                                                    <td class='code'>-</td>
+                                                    <td>Data-Driven</td>
+                                                </tr>
+                                                <tr>
+                                                    <td><a href="https://ojs.aaai.org/index.php/AAAI/article/view/20846">PUMA: Performance Unchanged Model Augmentation for Training Data Removal</a></td>
+                                                    <td>AAAI</td>
+                                                    <td>2022</td>                                                    <td class='code'>-</td>
+                                                    <td>Data-Driven</td>
+                                                </tr>
+                                                <tr>
+                                                    <td><a href="https://www.mdpi.com/2504-4990/4/3/28">Certifiable Unlearning Pipelines for Logistic Regression: An Experimental Study</a></td>
+                                                    <td>MAKE</td>
+                                                    <td>2022</td>                                                    <td><a href="https://version.helsinki.fi/mahadeva/unlearning-experiments">[Code]</a></td>
+                                                    <td>Data-Driven</td>
+                                                </tr>
+                                                <tr>
+                                                    <td><a href="https://arxiv.org/abs/2201.05629">Zero-Shot Machine Unlearning</a></td>
+                                                    <td>arXiv</td>
+                                                    <td>2022</td>                                                    <td class='code'>-</td>
+                                                    <td>Data-Driven</td>
+                                                </tr>
+                                                <tr>
+                                                    <td><a href="https://congweilin.github.io/CongWeilin.io/files/GraphEditor.pdf">GRAPHEDITOR: An Efficient Graph Representation Learning and Unlearning Approach</a></td>
+                                                    <td>-</td>
+                                                    <td>2022</td>                                                    <td><a href="https://anonymous.4open.science/r/GraphEditor-NeurIPS22-856E/README.md">[Code]</a></td>
+                                                    <td>Data-Driven</td>
+                                                </tr>
+                                                <tr>
+                                                    <td><a href="https://arxiv.org/abs/2111.12545">Learning to Refit for Convex Learning Problems</a></td>
+                                                    <td>arXiv</td>
+                                                    <td>2021</td>                                                    <td class='code'>-</td>
+                                                    <td>Data-Driven</td>
+                                                </tr>
+                                                <tr>
+                                                    <td><a href="https://arxiv.org/abs/2111.08947">Fast Yet Effective Machine Unlearning</a></td>
+                                                    <td>arXiv</td>
+                                                    <td>2021</td>                                                    <td class='code'>-</td>
+                                                    <td>Data-Driven</td>
+                                                </tr>
+                                                <tr>
+                                                    <td><a href="https://openreview.net/forum?id=GRMKEx3kEo">SSSE: Efficiently Erasing Samples from Trained Machine Learning Models</a></td>
+                                                    <td>NeurIPS</td>
+                                                    <td>2021</td>                                                    <td class='code'>-</td>
+                                                    <td>Data-Driven</td>
+                                                </tr>
+                                                <tr>
+                                                    <td><a href="https://ieeexplore.ieee.org/document/9458237">Coded Machine Unlearning</a></td>
+                                                    <td>IEEE</td>
+                                                    <td>2021</td>                                                    <td class='code'>-</td>
+                                                    <td>Data-Driven</td>
+                                                </tr>
+                                                <tr>
+                                                    <td><a href="https://ieeexplore.ieee.org/document/9519428">Machine Unlearning</a></td>
+                                                    <td>IEEE</td>
+                                                    <td>2021</td>                                                    <td><a href="https://github.com/cleverhans-lab/machine-unlearning">[Code]</a></td>
+                                                    <td>Data-Driven</td>
+                                                </tr>
+                                                <tr>
+                                                    <td><a href="https://ojs.aaai.org/index.php/AAAI/article/view/17284/">How Does Data Augmentation Affect Privacy in Machine Learning?</a></td>
+                                                    <td>AAAI</td>
+                                                    <td>2021</td>                                                    <td><a href="https://github.com/dayu11/MI_with_DA">[Code]</a></td>
+                                                    <td>Data-Driven</td>
+                                                </tr>
+                                                <tr>
+                                                    <td><a href="https://ojs.aaai.org/index.php/AAAI/article/view/17371">Amnesiac Machine Learning</a></td>
+                                                    <td>AAAI</td>
+                                                    <td>2021</td>                                                    <td><a href="https://github.com/lmgraves/AmnesiacML">[Code]</a></td>
+                                                    <td>Data-Driven</td>
+                                                </tr>
+                                                <tr>
+                                                    <td><a href="https://arxiv.org/abs/2101.04898">Unlearnable Examples: Making Personal Data Unexploitable</a></td>
+                                                    <td>ICLR</td>
+                                                    <td>2021</td>                                                    <td><a href="https://github.com/HanxunH/Unlearnable-Examples">[Code]</a></td>
+                                                    <td>Data-Driven</td>
+                                                </tr>
+                                                <tr>
+                                                    <td><a href="https://proceedings.mlr.press/v132/neel21a.html">Descent-to-Delete: Gradient-Based Methods for Machine Unlearning</a></td>
+                                                    <td>ALT</td>
+                                                    <td>2021</td>                                                    <td class='code'>-</td>
+                                                    <td>Data-Driven</td>
+                                                </tr>
+                                                <tr>
+                                                    <td><a href="https://dl.acm.org/doi/abs/10.5555/3489212.3489302">Fawkes: Protecting Privacy against Unauthorized Deep Learning Models</a></td>
+                                                    <td>USENIX Sec. Sym.</td>
+                                                    <td>2020</td>                                                    <td><a href="https://github.com/Shawn-Shan/fawkes">[Code]</a></td>
+                                                    <td>Data-Driven</td>
+                                                </tr>
+                                                <tr>
+                                                    <td><a href="https://dl.acm.org/doi/abs/10.1145/3318464.3380571">PrIU: A Provenance-Based Approach for Incrementally Updating Regression Models</a></td>
+                                                    <td>SIGMOD</td>
+                                                    <td>2020</td>                                                    <td class='code'>-</td>
+                                                    <td>Data-Driven</td>
+                                                </tr>
+                                                <tr>
+                                                    <td><a href="https://proceedings.mlr.press/v119/wu20b.html">DeltaGrad: Rapid retraining of machine learning models</a></td>
+                                                    <td>ICML</td>
+                                                    <td>2020</td>                                                    <td><a href="https://github.com/thuwuyinjun/DeltaGrad">[Code]</a></td>
+                                                    <td>Data-Driven</td>
+                                                </tr>

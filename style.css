@@ -24,7 +24,7 @@ body
 table, tr, td, p, div 
 {
 	font-family: Verdana;
-	font-size: 36px;
+	font-size: 12px;
 	color: #111;
 	padding-top: 10px;
 }
@@ -105,7 +105,7 @@ a:hover
 	margin-right: 10px;
 	margin-top: 10px;
 	margin-bottom:10px;
-	padding-left: 40px
+	padding-left: 40px;
 	font-family: tahoma;
 	font-size: 14px; 
 	font-weight: bold; 
@@ -116,7 +116,7 @@ a.sub:link, a.sub:visited, a.sub:active
 	color: #ff6600; 
 }
 
-a.sub: hover 
+a.sub hover 
 { 
 	text-decoration: underline; 
 }
@@ -182,7 +182,7 @@ a.continue:link, a.xemtiep:active, a.xemtiep:visited, a:link
 	color: #900;
 }
 
-a.continue: hover 
+a.continue hover 
 {
 	color: #900;
 }
@@ -221,3 +221,17 @@ a.continue: hover
 	font-weight: bold;
 	font-size: 24px;
 }
+
+/* Add-on */
+
+.code
+{
+	text-align: center;
+}
+
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 70%;
+  }
