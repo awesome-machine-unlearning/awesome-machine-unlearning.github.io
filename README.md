@@ -5,6 +5,7 @@
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=tamlhp.awesome-machine-unlearning)
 
 Link to website: https://awesome-machine-unlearning.github.io/
+
 Link to Github repository: https://github.com/tamlhp/awesome-machine-unlearning
 
 A collection of academic articles, published methodology, and datasets on the subject of **machine unlearning**.
