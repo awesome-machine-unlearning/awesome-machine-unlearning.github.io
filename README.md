@@ -4,9 +4,9 @@
 ![GitHub stars](https://img.shields.io/github/stars/tamlhp/awesome-machine-unlearning?color=yellow&label=Stars)
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=tamlhp.awesome-machine-unlearning)
 
-+ Link to website: https://awesome-machine-unlearning.github.io/
+:star: Link to website: https://awesome-machine-unlearning.github.io/
 
-+ Link to Github repository: https://github.com/tamlhp/awesome-machine-unlearning
+:star: Link to Github repository: https://github.com/tamlhp/awesome-machine-unlearning
 
 A collection of academic articles, published methodology, and datasets on the subject of **machine unlearning**.
 
