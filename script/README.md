@@ -1,6 +1,6 @@
 # Instruction for update
 
-## input.txt structure:
+_input.txt structure:_
 
 --------------------
 Model-Agnostic
