@@ -1,4 +1,38 @@
 Model-Agnostic
+| [On the Trade-Off between Actionable Explanations and the Right to be Forgotten](https://arxiv.org/abs/2208.14137) | 2024 | Pawelczyk et al. | _arXiv_ | - | - |
+| [Post-Training Attribute Unlearning in Recommender Systems](https://arxiv.org/abs/2403.06737) | 2024 | Chen et al. | _arXiv_ | - | - | PoT-AU |
+| [Making Users Indistinguishable: Attribute-wise Unlearning in Recommender Systems](https://arxiv.org/abs/2310.05847) | 2024 | Li et al. | _arXiv_ | - | - | PoT-AU |
+| [CovarNav: Machine Unlearning via Model Inversion and Covariance Navigation](https://arxiv.org/abs/2311.12999) | 2024 | Abbasi et al. | _arXiv_ | CovarNav | - |  |
+| [Partially Blinded Unlearning: Class Unlearning for Deep Networks a Bayesian Perspective](https://arxiv.org/abs/2403.16246) | 2024 | Panda et al. | _arXiv_ | PBU | - |  |
+| [Unlearning Backdoor Threats: Enhancing Backdoor Defense in Multimodal Contrastive Learning via Local Token Unlearning](https://arxiv.org/abs/2403.16257) | 2024 | Liang et al. | _arXiv_ | UBT | - |  |
+| [∇τ: Gradient-based and Task-Agnostic machine Unlearning](https://arxiv.org/abs/2403.14339) | 2024 | Trippa et al. | _arXiv_ | - | - |  |
+| [Towards Independence Criterion in Machine Unlearning of Features and Labels](https://arxiv.org/abs/2403.08124) | 2024 | Han et al. | _arXiv_ | - | - |  |
+| [Challenging Forgets: Unveiling the Worst-Case Forget Sets in Machine Unlearning](https://arxiv.org/abs/2403.07362) | 2024 | Fan et al. | _arXiv_ | - | [[Code]](https://github.com/OPTML-Group/Unlearn-WorstCase.) |  |
+| [Corrective Machine Unlearning](https://arxiv.org/abs/2402.14015) | 2024 | Geol et al. | _arXiv_ | - | - |  |
+| [Fair Machine Unlearning: Data Removal while Mitigating Disparities](https://arxiv.org/abs/2307.14754) | 2024 | Oesterling et al. | AISTATS | fair machine unlearning | [[Code]](https://github.com/AI4LIFE-GROUP/fair-unlearning) |  |
+| [Label-Agnostic Forgetting: A Supervision-Free Unlearning in Deep Models](https://arxiv.org/abs/2404.00506) | 2024 | Shen et al. | _arXiv_ | Label-Agnostic Forgetting  | [[Code]](https://github.com/ShaofeiShen768/LAF) | |
+| [CaMU: Disentangling Causal Effects in Deep Model Unlearning](https://arxiv.org/abs/2401.17504) | 2024 | Shen et al. | _arXiv_ | CaMU | [[Code]](https://github.com/ShaofeiShen768/CaMU) |  |
+| [SalUn: Empowering Machine Unlearning via Gradient-based Weight Saliency in Both Image Classification and Generation](https://arxiv.org/abs/2310.12508) | 2024 | Fan et al. | _ICLR_ | SalUn | [[Code]](https://github.com/OPTML-Group/Unlearn-Saliency) | Weight Saliency |
+| [Fast Machine Unlearning Without Retraining Through Selective Synaptic Dampening](https://arxiv.org/abs/2308.07707) | 2024 | Foster et al. | _AAAI_ | SSD | [[Code]](https://github.com/if-loops/selective-synaptic-dampening) | Retraining-free |
+| [Learning to Unlearn: Instance-wise Unlearning for Pre-trained Classifiers](https://arxiv.org/abs/2301.11578) | 2024 | Cha et al. | _AAAI_ | instance-wise unlearning | - |  |
+| [Parameter-tuning-free data entry error unlearning with adaptive selective synaptic dampening](https://arxiv.org/abs/2402.10098) | 2024 | Schoepf et al. | _arXiv_ | ASSD | [[Code]](https://github.com/if-loops/adaptive-selective-synaptic-dampening) | |
+| [Zero-Shot Machine Unlearning at Scale via Lipschitz Regularization](https://arxiv.org/abs/2402.01401) | 2024 | Foster et al. | _arXiv_ | JIT | [[Code]](https://github.com/jwf40/Zeroshot-Unlearning-At-Scale) | Zero-shot |
+| [Layer Attack Unlearning: Fast and Accurate Machine Unlearning via Layer Level Attack and Knowledge Distillation](https://arxiv.org/abs/2312.16823) | 2023 | Kim et al. | _arXiv_ | LAU | - |  |
+| [Towards bridging the gaps between the right to explanation and the right to be forgotten](https://dl.acm.org/doi/10.5555/3618408.3619140) | 2023 | Krishna et al. | ICML | - | - | e |
+| [Unlearn What You Want to Forget: Efficient Unlearning for LLMs](https://aclanthology.org/2023.emnlp-main.738/) | 2023 | Chen & Yang | _EMNLP_ | EUL | [[Code]](https://github.com/SALT-NLP/Efficient_Unlearning/) | |
+| [Fast Model DeBias with Machine Unlearning](https://openreview.net/forum?id=BL9Pc7xsdX&noteId=BL9Pc7xsdX) | 2023 | Chen et al. | _NIPS_ | DeBias | [[Code]](https://github.com/richhh520/model-debias/) |  |
+| [DUCK: Distance-based Unlearning via Centroid Kinematics](https://arxiv.org/abs/2312.02052) | 2023 |Cotogni et al. | _arXiv_ | DUCK | [[Code]](https://github.com/OcraM17/DUCK) |  |
+| [Open Knowledge Base Canonicalization with Multi-task Unlearning](https://arxiv.org/pdf/2310.16419.pdf) | 2023 | Liu et al. | _arXiv_ | MulCanon | - |  |
+| [Unlearning via Sparse Representations](https://arxiv.org/abs/2311.15268) | 2023 | Shah et al. | _arXiv_ | DKVB | - |  Zero-shot Unlearning | 
+| [SecureCut: Federated Gradient Boosting Decision Trees with Efficient Machine Unlearning](https://arxiv.org/abs/2311.13174) | 2023 | Zhang et al. | _arXiv_ | SecureCut | - | Vertical Federated Learning |
+| [Hidden Poison: Machine Unlearning Enables Camouflaged Poisoning Attacks](https://openreview.net/forum?id=Isy7gl1Hqc) | 2023 | Di et al. | _NeurIPS_ | - | - | Camouflaged data poisoning attacks |
+| [Model Sparsity Can Simplify Machine Unlearning](https://openreview.net/forum?id=0jZH883i34) | 2023 | Jia et al. | _NeurIPS_ | l1-sparse | [[Code]](https://github.com/OPTML-Group/Unlearn-Sparse) | Weight Pruning |
+| [Fast Model Debias with Machine Unlearning](https://arxiv.org/abs/2310.12560) | 2023 | Chen et al. | _arXiv_ | - | - |  |
+| [FRAMU: Attention-based Machine Unlearning using Federated Reinforcement Learning](https://arxiv.org/pdf/2309.10283) | 2023 | Shaik et al. | _arXiv_ | FRAMU | - | Federated Learning |
+| [Tight Bounds for Machine Unlearning via Differential Privacy](https://arxiv.org/abs/2309.00886) | 2023 | Huang et al. | _arXiv_ | - | - |  |
+| [Machine Unlearning Methodology base on Stochastic Teacher Network](https://arxiv.org/abs/2308.14322) | 2023 | Zhang et al. | _arXiv_ | - | - |
+| [Fast Machine Unlearning Without Retraining Through Selective Synaptic Dampening](https://arxiv.org/abs/2308.07707) | 2023 | Foster et al. | _arXiv_ | SSD | [[Code]](https://github.com/if-loops/selective-synaptic-dampening) | |
+| [From Adaptive Query Release to Machine Unlearning](https://arxiv.org/abs/2307.11228) | 2023 | Ullah et al. | _arXiv_ | - | - | Exact Unlearning |
 | [Towards Adversarial Evaluations for Inexact Machine Unlearning](https://arxiv.org/abs/2201.06640) | 2023 | Goel et al. | _arXiv_ | EU-k, CF-k | [[Code]](https://github.com/shash42/Evaluating-Inexact-Unlearning) |
 | [KGA: A General Machine Unlearning Framework Based on Knowledge Gap Alignment](https://arxiv.org/abs/2305.06535) | 2023 | Wang et al. | _arXiv_ | KGA | [[Code]](https://github.com/Lingzhi-WANG/KGAUnlearn) | |
 | [On the Trade-Off between Actionable Explanations and the Right to be Forgotten](https://openreview.net/pdf?id=HWt4BBZjVW) | 2023 | Pawelczyk et al. | _arXiv_ | - | - |  |
@@ -61,6 +95,22 @@ Model-Agnostic
 | [Incremental and Decremental Proximal Support Vector Classification using Decay Coefficients](https://link.springer.com/chapter/10.1007/978-3-540-45228-7_42) | 2003 | Tveit et al. | _DaWak_ | - | - | Decremental Learning  |
 | [Incremental and Decremental Support Vector Machine Learning](https://dl.acm.org/doi/10.5555/3008751.3008808) | 2000 | Cauwenberg et al. | _NeurIPS_ | - | - | Decremental Learning  |
 Model-Intrinsic
+| [Machine Unlearning for Image-to-Image Generative Models](https://arxiv.org/pdf/2402.00351.pdf) | 2024 | Li et al. | _arXiv_ | - | [[Code]](https://github.com/jpmorganchase/l2l-generator-unlearning) | Generative Models |
+| [Towards Efficient and Effective Unlearning of Large Language Models for Recommendation](https://arxiv.org/abs/2403.03536) | 2024 | Wang et al. | _arXiv_ | E2URec | [[Code]](https://github.com/justarter/E2URec)  | LLM |
+| [Dissecting Language Models: Machine Unlearning via Selective Pruning](https://arxiv.org/abs/2403.01267) | 2024 | Pochinkov and Schoots | _arXiv_ | selective pruning | - | LLM |
+| [Decentralized Federated Unlearning on Blockchain](https://arxiv.org/abs/2402.16294) | 2024 | Liu et al. | _arXiv_ | BoclkFUL | - | Directed Acyclic Graph |
+| [Unlink to Unlearn: Simplifying Edge Unlearning in GNNs](https://arxiv.org/abs/2402.10695) | 2024 | Tan et al. | _WWW_ | UtU | [[Code]](https://github.com/Sumsky21/Unlink-to-Unlearn) | GNN-based models |
+| [Preserving Privacy Through Dememorization: An Unlearning Technique For Mitigating Memorization Risks In Language Models](https://aclanthology.org/2023.emnlp-main.265/) | 2024 | Kassem et al. | _EMNLP_ | DeMem | - | LLM |
+| [Towards Effective and General Graph Unlearning via Mutual Evolution](https://arxiv.org/abs/2401.11760) | 2024 | Li et al. | _AAAI_ | MEGU | - | GNN-based models |
+| [Separate the Wheat from the Chaff: Model Deficiency Unlearning via Parameter-Efficient Module Operation](https://arxiv.org/abs/2308.08090) | 2024 | Hu et al. | _AAAI_ | Ext-Sub | [[Code]](https://github.com/HITsz-TMG/Ext-Sub) | LLM |
+| [FAST: Feature Aware Similarity Thresholding for Weak Unlearning in Black-Box Generative Models](https://arxiv.org/abs/2312.14895) | 2023 | Panda and AP | _arXiv_ | FAST | [[Code]](https://github.com/Subhodip123/weak-unlearninggan) | GAN |
+| [Fast-NTK: Parameter-Efficient Unlearning for Large-Scale Models](https://arxiv.org/abs/2312.14923) | 2023 | Li et al. | _arXiv_ | Fast-NTK | - | CNN model |
+| [Certified Minimax Unlearning with Generalization Rates and Deletion Capacity](https://arxiv.org/abs/2312.10336) | 2023 | Liu et al. | _NeurIPS_ | - | - | Minimax model |
+| [FairSISA: Ensemble Post-Processing to Improve Fairness of Unlearning in LLMs](https://research.ibm.com/publications/fairsisa-ensemble-post-processing-to-improve-fairness-of-unlearning-in-llms) | 2023 | Kadhe et al. | _NeurIPS_ | FairSISA | - | LLMs |
+| [Multimodal Machine Unlearning](https://arxiv.org/abs/2311.12047) | 2023 | Cheng and Amiri | _arXiv_ | MMUL | - | Multimodal Models |
+| [Adapt then Unlearn: Exploiting Parameter Space Semantics for Unlearning in Generative Adversarial Networks](https://arxiv.org/abs/2309.14054) | 2023 | Tiwary et al. | _arXiv_ | Adapt-then-Unlearn | - | GAN |
+| [SAFE: Machine Unlearning With Shard Graphs](https://openaccess.thecvf.com/content/ICCV2023/html/Dukler_SAFE_Machine_Unlearning_With_Shard_Graphs_ICCV_2023_paper.html) | 2023 |  Dukler et al. | _ICCV_ | SAFE | - | GNN-based Models |
+| [MUter: Machine Unlearning on Adversarially Trained Models](https://openaccess.thecvf.com/content/ICCV2023/html/Liu_MUter_Machine_Unlearning_on_Adversarially_Trained_Models_ICCV_2023_paper.html) | 2023 | Liu et al | _ICCV_ | MUter | - | Adversarial Training Models |
 | [Heterogeneous Federated Knowledge Graph Embedding Learning and Unlearning](https://arxiv.org/abs/2302.02069) | 2023 | Zhu et al. | _WWW_ | FedLU | [[Code]](https://github.com/nju-websoft/FedLU/) | GNN-based Models |
 | [One-Shot Machine Unlearning with Mnemonic Code](https://arxiv.org/abs/2306.05670) | 2023 | Yamashita | _arXiv_ | One-Shot MU | - |   |
 | [Inductive Graph Unlearning](https://arxiv.org/pdf/2304.03093.pdf) | 2023 | Wang et al. | _USENIX_ | GUIDE | [[Code]](https://github.com/Happy2Git/GUIDE) | GNN-based Models |
@@ -117,6 +167,7 @@ Model-Intrinsic
 | [Neural Text Degeneration With Unlikelihood Training](https://arxiv.org/abs/1908.04319) | 2019 | Welleck et al. | _arXiv_ | unlikelihood training | [[Code]](https://github.com/facebookresearch/unlikelihood_training) | DNN-based |
 | [Bayesian Neural Networks with Weight Sharing Using Dirichlet Processes](https://ieeexplore.ieee.org/document/8566011) | 2018 | Roth et al. | _IEEE_ | DP | [[Code]](https://github.com/wroth8/dp-bnn) | Bayesian Models  |
 Data-Driven
+| [Towards Machine Unlearning Benchmarks: Forgetting the Personal Identities in Facial Recognition Systems](https://arxiv.org/abs/2311.02240) | 2023 | Choi and Na | _arXiv_ | MUFAC, MUCAC dataset | [[Code]](https://github.com/ndb796/MachineUnlearning) | Introduce two benchmark datasets |
 | [Hidden Poison: Machine Unlearning Enables Camouflaged Poisoning Attacks](https://arxiv.org/abs/2212.10717) | 2022 | Di et al. | _NeurIPS-TSRML_ | - | [[Code]](https://github.com/Jimmy-di/camouflage-poisoning) | Data Poisoning |
 | [Forget Unlearning: Towards True Data Deletion in Machine Learning](https://arxiv.org/pdf/2210.08911.pdf) | 2022 | Chourasia et al. | _ICLR_ | - | - | Data Influence |
 | [ARCANE: An Efficient Architecture for Exact Machine Unlearning](https://www.ijcai.org/proceedings/2022/0556.pdf) | 2022 | Yan et al.  | _IJCAI_ | ARCANE | - | Data Partition |
